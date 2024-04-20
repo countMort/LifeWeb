@@ -1,0 +1,11 @@
+.button-container {
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.stats-container {
+  text-align: center;
+  height: 30px;
+}
